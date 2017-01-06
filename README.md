@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Product</title>
-	<link rel="stylesheet" type="text/css" href="">
+	<link rel="stylesheet" type="text/css" href="mystyle.css">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet" type='text/css'>
 	<link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet" type='text/css'>
 </head>
